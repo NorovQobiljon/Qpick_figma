@@ -1,0 +1,540 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
+/* font-family: 'Montserrat', sans-serif; */
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+
+}
+
+body {
+    background-color: #EAEAEA;
+}
+
+nav {
+    width: 1200px;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.vibor {
+    margin-left: 50px;
+    cursor: pointer;
+}
+
+.nav-like {
+    cursor: pointer;
+}
+
+.sahifa {
+    font-family: Montserrat;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: left;
+    color: black;
+
+}
+
+.header-logotip {
+    width: 1200px;
+    height: 230px;
+    background-color: black;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.iphone-13 {
+    width: 300px;
+    height: 74px;
+    text-align: center;
+    color: #FFF;
+}
+
+.header {
+    width: 1200px;
+    height: 400px;
+    margin: auto;
+    margin-top: 45px;
+}
+
+.chehol {
+    color: gray;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+}
+
+.card {
+    width: 300px;
+    height: 350px;
+    text-align: center;
+    background-color: #FFFFFF;
+    border-radius: 30px;
+    padding-top: 15px;
+    margin-top: 20px;
+
+}
+
+.iphone-1 {
+    font-family: Montserrat;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 21px;
+}
+
+.iphone-1 {
+    padding-top: 20px;
+}
+
+.phones {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footor {
+    width: 1200px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.apple {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+    color: gray;
+
+}
+
+.box {
+    width: 300px;
+    height: 400px;
+    background-color: #FFF;
+    text-align: center;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+
+.boxes {
+    display: flex;
+    justify-content: space-between;
+}
+
+.likes {
+    margin-right: 222px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+.text {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.narxi {
+    color: #FFA542;
+    font-family: Montserrat;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 21px;
+    text-align: left;
+}
+
+.star {
+    margin-top: 25px;
+    margin-right: 222px;
+}
+
+.byz {
+    font-family: Montserrat;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 21px;
+    text-align: left;
+}
+
+.podes {
+    font-family: Montserrat;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 21px;
+    text-align: left;
+    margin-top: 60px;
+}
+
+.EarPods {
+    color: #FFA542;
+    font-family: Montserrat;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 21px;
+    text-align: left;
+    margin-top: 60px;
+}
+
+.airpods {
+    width: 1200px;
+    margin-top: 20px;
+}
+
+.gg {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: gray;
+}
+
+.imag {
+    width: 300px;
+    height: 400px;
+    background-color: #FFF;
+    border-radius: 30px;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.gh {
+    font-family: Montserrat;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 21px;
+    text-align: left;
+}
+
+.sn {
+    font-family: Montserrat;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 21px;
+    text-align: left;
+    color: #FFA542;
+}
+
+.images {
+    display: flex;
+    justify-content: space-between;
+}
+
+.tugashi {
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    background-color: #FFF;
+    justify-content: space-between;
+    margin-top: 20px;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    padding-top: 15px;
+}
+
+.div4 {
+    display: flex;
+    gap: 10px;
+    cursor: pointer;
+}
+
+h5 {
+    color: rgb(80, 75, 75);
+    cursor: pointer;
+}
+
+h5:hover {
+    color: #FFA542;
+}
+
+.sotuv {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    margin-left: 17%;
+    margin-top: 30px;
+}
+
+.oformit {
+    width: 500px;
+    height: 600px;
+    background-color: #FFF;
+    border-radius: 30px;
+}
+
+.kuryer {
+    font-family: Montserrat;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 21px;
+}
+
+.dstk {
+    display: flex;
+    justify-content: space-between;
+    padding: 23px;
+}
+
+.buy {
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+}
+
+.joy {
+    width: 450px;
+    height: 200px;
+    margin-left: 25px;
+    border-radius: 15px;
+}
+
+.buyur {
+    display: flex;
+    margin-left: 25px;
+    margin-top: 22px;
+}
+
+.shahar {
+    width: 440px;
+    height: 40px;
+    border: none;
+    margin-left: 25px;
+    border-radius: 15px;
+    padding-left: 10px;
+    margin-top: 15px;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: left;
+    background-color: #bcbaba;
+    outline: none;
+    cursor: pointer;
+}
+
+.kocha {
+    width: 440px;
+    height: 40px;
+    border: none;
+    margin-left: 25px;
+    border-radius: 15px;
+    padding-left: 10px;
+    margin-top: 15px;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: left;
+    background-color: #bcbaba;
+    outline: none;
+    cursor: pointer;
+}
+
+.uy {
+    width: 164px;
+    height: 35px;
+    border: none;
+    margin-left: 25px;
+    border-radius: 15px;
+    padding-left: 10px;
+    margin-top: 15px;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: left;
+    background-color: #bcbaba;
+    outline: none;
+    cursor: pointer;
+
+}
+
+.padez {
+    width: 164px;
+    height: 35px;
+    border: none;
+    margin-left: 25px;
+    border-radius: 15px;
+    padding-left: 10px;
+    margin-top: 15px;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: left;
+    background-color: #bcbaba;
+    outline: none;
+    cursor: pointer;
+}
+
+.nomlar {
+    display: flex;
+    gap: 38px;
+}
+
+.xonadon {
+    width: 164px;
+    height: 35px;
+    border: none;
+    margin-left: 25px;
+    border-radius: 15px;
+    padding-left: 10px;
+    margin-top: 15px;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: left;
+    background-color: #bcbaba;
+    outline: none;
+    cursor: pointer;
+
+}
+
+.dostavka {
+    width: 450px;
+    height: 150px;
+    background-color: #FFF;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.zakaz {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: center;
+}
+
+.narsalar {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.nomi {
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: left;
+}
+
+.sum {
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: left;
+}
+
+.obkelish {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.jonatish {
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: left;
+}
+
+.tolov {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.tolash {
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: left;
+}
+
+.kardlar {
+    width: 1120px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 25px;
+}
+.div-shans{
+    width: 450px;
+    height: 10  0px;
+    background-color: #FFF;
+    border-radius: 20px;
+    padding: 10px;
+    margin-right: 20px;
+}
+.hisob{
+    cursor: pointer;
+}
+.kod{
+    cursor: pointer;
+    color: gray;
+}
+.nomer{
+    width: 470px;
+    height: 80px;
+    border: 2px solid magenta;
+    margin-top: 20px;
+    background-color: #FFF;
+    border-radius: 30px;
+    padding: 10px;
+    text-align: center;
+
+}
+.raqam{
+    width: 164px;
+    height: 35px;
+    border: none;
+    margin-left: 25px;
+    border-radius: 15px;
+    padding-left: 10px;
+    margin-top: 15px;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: left;
+    background-color: #bcbaba;
+    outline: none;
+    cursor: pointer;
+}
+.btn{
+    width: 450px;
+    height: 40px;
+    margin-top: 140px;
+    background-color: black;
+    color: #FFF;
+    border: none;
+    border-radius: 30px;
+    text-transform: uppercase;
+}
+.btn:hover{
+    background-color: #FFA542;
+    color: #FFF;
+}
+
