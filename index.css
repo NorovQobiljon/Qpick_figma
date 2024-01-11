@@ -236,6 +236,7 @@ nav {
 
 .tugashi {
     width: 1200px;
+    height: 100px;
     margin: auto;
     display: flex;
     background-color: #FFF;
@@ -246,15 +247,46 @@ nav {
     padding-top: 15px;
 }
 
+h1 {
+    padding: 25px;
+    font-family: Montserrat;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
 .div4 {
     display: flex;
     gap: 10px;
     cursor: pointer;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding: 25px;
+    padding-left: 10px;
+
+}
+.div5{
+    padding: 20px;
 }
 
 h5 {
     color: rgb(80, 75, 75);
     cursor: pointer;
+    font-family: Montserrat;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding: 5px;
+
 }
 
 h5:hover {
@@ -480,22 +512,26 @@ h5:hover {
     margin: auto;
     margin-top: 25px;
 }
-.div-shans{
+
+.div-shans {
     width: 450px;
-    height: 10  0px;
+    height: 10 0px;
     background-color: #FFF;
     border-radius: 20px;
     padding: 10px;
     margin-right: 20px;
 }
-.hisob{
+
+.hisob {
     cursor: pointer;
 }
-.kod{
+
+.kod {
     cursor: pointer;
     color: gray;
 }
-.nomer{
+
+.nomer {
     width: 470px;
     height: 80px;
     margin-top: 20px;
@@ -505,7 +541,8 @@ h5:hover {
     text-align: center;
 
 }
-.raqam{
+
+.raqam {
     width: 164px;
     height: 35px;
     border: none;
@@ -522,7 +559,8 @@ h5:hover {
     outline: none;
     cursor: pointer;
 }
-.btn{
+
+.btn {
     width: 450px;
     height: 40px;
     margin-top: 140px;
@@ -532,8 +570,8 @@ h5:hover {
     border-radius: 30px;
     text-transform: uppercase;
 }
-.btn:hover{
+
+.btn:hover {
     background-color: #FFA542;
     color: #FFF;
 }
-
